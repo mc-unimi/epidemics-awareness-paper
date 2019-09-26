@@ -1,5 +1,5 @@
 Copyright (C) 2019 Samira Maghool and Marco Cremonini
-All files of this folder are part of the research project described in the paper titled "A multicomponent model of awareness for different categories of network epidemics", by Samira Maghool, Nahid Maleki-Jirsaraei, and Marco Cremonini [PONE-D-19-20285].
+All files of this folder are part of the research project described in the paper titled "A multicomponent model of awareness for different categories of network epidemics", by Samira Maghool, Nahid Maleki-Jirsaraei, and Marco Cremonini.
 
 Our multiagent epidemic simulator is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
@@ -7,7 +7,7 @@ Our multiagent epidemic simulator is distributed in the hope that it will be use
 
 You should have received a copy of the GNU General Public License
 
-File Parameters_Configuration_Chart.pdf lists of all parameters with reference values and descriptions.
+File Parameters_Configuration_Chart.pdf lists all parameters with reference values and descriptions.
 
 How to use the simulator:
 1.	Open MySimulation.py module.
