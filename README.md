@@ -4,4 +4,4 @@ This is the repository for code and data produced for the paper titled "A multic
 
 License
 
-The data produced for this papaer is licensed under the Creative Commons Attribution 3.0 Unported license (https://creativecommons.org/licenses/by/3.0/), and the source code used for simulations is licensed under the GNU GPLv3 license (https://github.com/mc-unimi/epidemics-awareness-paper/blob/master/LICENSE).
+The data produced for this paper is licensed under the Creative Commons Attribution 3.0 Unported license (https://creativecommons.org/licenses/by/3.0/), and the source code used for simulations is licensed under the GNU GPLv3 license (https://github.com/mc-unimi/epidemics-awareness-paper/blob/master/LICENSE).
